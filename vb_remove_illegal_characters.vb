@@ -9,4 +9,4 @@ Private Sub TextBox_TextChanged(sender As Object, e As EventArgs) Handles TextBo
             TextBox.SelectionStart = index
         End If
 
-    End Sub
+End Sub
